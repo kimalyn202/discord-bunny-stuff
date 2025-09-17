@@ -87,7 +87,7 @@
             "PRIMARY_800":"#0C0B0C"
             },
             "background":{
-                "blur": .4,
+                "blur": 0.4,
                 "url": "https://i.imgur.com/JzFjNKE.jpeg",
                 "alpha":0.15
             },
