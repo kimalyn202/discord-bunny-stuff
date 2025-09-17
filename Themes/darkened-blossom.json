@@ -89,7 +89,7 @@
             "background":{
                 "blur": 0.6,
                 "url": "https://i.imgur.com/JzFjNKE.jpeg",
-                "alpha":0.8
+                "alpha":0.1
             },
             "spec":2,
             "plus":{
